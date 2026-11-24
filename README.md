@@ -1,5 +1,9 @@
 # The world on 23 November 2026 in one image
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/SakakiFu/world-news-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/SakakiFu/world-news-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 A single 1024×1024 newspaper front page summing up 23 November 2026:
 Nvidia reinstates Jensen Huang as CEO (lead), Ukraine sinks a Russian
 warship off Libya, 24 dead in an Indonesia factory fire, and the EU seals
